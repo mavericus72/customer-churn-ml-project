@@ -1,3 +1,8 @@
+![Confusion Matrix](images/confusion_matrix.png)
+
+---
+
+
 ## Customer Churn Prediction using Random Forest
 
 ## Project Overview
