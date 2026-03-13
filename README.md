@@ -1,4 +1,4 @@
-![Confusion Matrix](images/confusion_matrix.jpg)
+![Confusion Matrix](customer-churn-ml-project/images/confusion_matrix.JPG)
 
 ---
 
